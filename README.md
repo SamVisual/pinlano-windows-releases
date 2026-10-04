@@ -1,2 +1,3 @@
-# pinboard-windows-releases
-Signierte Windows-Installationspakete für Pinboard. Quellcode wird getrennt verwaltet.
+# Pinlano Windows Releases
+
+Signierte Windows-Installer und Updatebeschreibungen für Pinlano. Der Programmquellcode wird getrennt privat verwaltet.
